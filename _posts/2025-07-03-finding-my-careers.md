@@ -15,7 +15,7 @@ tags: [IT, 취업, 커리어]
 ---
 
 
-![samsung](/samsungds.png)
+![samsung](samsungds.png)
 
 # [삼성전자 DS - SW 개발]
 
@@ -55,7 +55,7 @@ tags: [IT, 취업, 커리어]
 
 ---
 
-![42dot](/2025-07-03-finding-my-careers.md42dot.jpg)
+![42dot](42dot.jpg)
 
 # [42dot - Engineering]
 
@@ -87,7 +87,7 @@ tags: [IT, 취업, 커리어]
 
 ---
 
-![meta](/meta.png)
+![meta](meta.png)
 
 # [Meta - SWE]
 
