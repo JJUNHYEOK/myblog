@@ -12,6 +12,10 @@ tags: [IT, 취업, 커리어]
 - 서비스 ? 솔루션 ? 제조업 ? 방산 ?
 - 그래도 한번이라도 관심이 있었던 곳들에 대해 기술해보지.
 
+---
+
+
+![samsung](samsungds.png)
 
 ## 삼성전자 DS - SW 개발
 
@@ -51,6 +55,8 @@ tags: [IT, 취업, 커리어]
 
 ---
 
+![42dot](42dot.jpg)
+
 ## 42dot - Engineering
 
 
@@ -81,6 +87,7 @@ tags: [IT, 취업, 커리어]
 
 ---
 
+![meta](meta.png)
 
 ## Meta - SWE
 
