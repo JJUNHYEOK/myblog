@@ -17,10 +17,10 @@ tags: [IT, 취업, 커리어]
 
 ![samsung](/samsungds.png)
 
-# 삼성전자 DS - SW 개발
+# [삼성전자 DS - SW 개발]
 
 
-### 직무 설명
+#### 직무 설명
 
 **SW 기술을 바탕으로 반도체 솔루션 제품을 연구/개발합니다.**
 
@@ -57,10 +57,10 @@ tags: [IT, 취업, 커리어]
 
 ![42dot](/2025-07-03-finding-my-careers.md42dot.jpg)
 
-# 42dot - Engineering
+# [42dot - Engineering]
 
 
-### 직무 설명
+#### 직무 설명
 
 **혁신적인 모빌리티 기술의 실현을 목표로 자율주행, AI 알고리즘, SW 및 embedded system을 개발합니다.**
 
@@ -89,10 +89,10 @@ tags: [IT, 취업, 커리어]
 
 ![meta](/meta.png)
 
-# Meta - SWE
+# [Meta - SWE]
 
 
-### 직무 설명
+#### 직무 설명
 
 설명이 필요한가요
 최소 지원 조건이 6년 이상의 유관 경력 또는 3년 이상의 경력 + PhD입니다 (..)
@@ -126,7 +126,7 @@ tags: [IT, 취업, 커리어]
 ---
 
 
-### References
+#### References
 
 - [삼성전자 DS - SW개발 : 삼성전자 DS부문 채용](https://www.samsung-dsrecruit.com/)
 - [42dot - Engineering :  42dot Careers](https://42dot.ai/careers/openroles)
