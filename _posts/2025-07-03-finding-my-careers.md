@@ -15,7 +15,7 @@ tags: [IT, 취업, 커리어]
 ---
 
 
-![samsung](samsungds.png)
+![samsung](/samsungds.png)
 
 ## 삼성전자 DS - SW 개발
 
@@ -55,7 +55,7 @@ tags: [IT, 취업, 커리어]
 
 ---
 
-![42dot](42dot.jpg)
+![42dot](/2025-07-03-finding-my-careers.md42dot.jpg)
 
 ## 42dot - Engineering
 
@@ -87,7 +87,7 @@ tags: [IT, 취업, 커리어]
 
 ---
 
-![meta](meta.png)
+![meta](/meta.png)
 
 ## Meta - SWE
 
@@ -96,6 +96,11 @@ tags: [IT, 취업, 커리어]
 
 설명이 필요한가요
 최소 지원 조건이 6년 이상의 유관 경력 또는 3년 이상의 경력 + PhD입니다 (..)
+
+- ###**Why 갑자기 서비스 기업 ?**
+- **B2C BM을 가진 회사도 경험해보고 싶다.** (1학기의 경험) [복약지도 서비스 프로젝트](https://github.com/JJUNHYEOK/DB_Project)
+- 명색이 **Silicon Valley Project**잖아요.
+
 
 ---
 
