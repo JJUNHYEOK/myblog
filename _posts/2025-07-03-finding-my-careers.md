@@ -17,7 +17,7 @@ tags: [IT, 취업, 커리어]
 
 ![samsung](/samsungds.png)
 
-## 삼성전자 DS - SW 개발
+# 삼성전자 DS - SW 개발
 
 
 ### 직무 설명
@@ -57,7 +57,7 @@ tags: [IT, 취업, 커리어]
 
 ![42dot](/2025-07-03-finding-my-careers.md42dot.jpg)
 
-## 42dot - Engineering
+# 42dot - Engineering
 
 
 ### 직무 설명
@@ -89,7 +89,7 @@ tags: [IT, 취업, 커리어]
 
 ![meta](/meta.png)
 
-## Meta - SWE
+# Meta - SWE
 
 
 ### 직무 설명
