@@ -97,9 +97,9 @@ tags: [IT, 취업, 커리어]
 설명이 필요한가요
 최소 지원 조건이 6년 이상의 유관 경력 또는 3년 이상의 경력 + PhD입니다 (..)
 
-- ###**Why 갑자기 서비스 기업 ?**
+### **Why 갑자기 서비스 기업 ?**
 - **B2C BM을 가진 회사도 경험해보고 싶다.** (1학기의 경험) [복약지도 서비스 프로젝트](https://github.com/JJUNHYEOK/DB_Project)
-- 명색이 **Silicon Valley Project**잖아요.
+- 명색이 **Silicon Valley Project**잖아요!
 
 
 ---
